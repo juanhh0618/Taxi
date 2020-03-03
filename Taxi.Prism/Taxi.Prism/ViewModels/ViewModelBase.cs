@@ -44,3 +44,4 @@ namespace Taxi.Prism.ViewModels
         }
     }
 }
+
